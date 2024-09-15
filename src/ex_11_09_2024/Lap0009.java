@@ -7,9 +7,11 @@ public class Lap0009 {
         String name="Mallikarjun";
         byte age=29;
         double sal=27700.60;
+        boolean is_married=false;
         System.out.println(name);
         System.out.println(age);
         System.out.println(sal);
+        System.out.println(is_married);
 
 
 
